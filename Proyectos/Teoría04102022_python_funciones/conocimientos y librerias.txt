@@ -1,0 +1,18 @@
+lenguaje de programación
+fundamentos:tipos de datos, variable, condicional, bucle, try...
+definir funciones de usuario
+caracteristicas de paradigmas de programación:clase, herencia, polimorfismo
+
+libreria estándar.
+strig lower, concat, substring
+number PI, random
+
+librerias.sys, calendar,
+ciberseguridad
+IA
+iot
+bigdata
+
+archivo.open(carta.doc)
+while(archivo.next):
+	print(data)

@@ -1,0 +1,44 @@
+lenguaje de programación
+1. librerías. standard... : namespaces, modules, librerías.. :class
+2. crear peopias librerías : clases
+
+Persona. datos comunes
+MediosPago . efectivo, trans, bizum, ...
+Cliente - Proveedor - Trabajador  - Administrativo - Gerente - Comercial
+presupuesto - pedir - contratar
+vender ------ comprar - 
+cobrar ------pagar --- pagar ------- pagar ---------- pahgar --- pagar
+atender -----ate
+
+Trabajador extends Persona implements IMediosPago
+
+Trabajador t=new Trabajador();
+t.nombre
+t.pagarTransferencia()
+
+(JAVA)
+class Nombre{
+
+propiedades
+private String nombre;
+private int unidades;
+
+métodos
+constructor
+Persona{
+console.log("objeto creado");
+}
+
+getter/setter - encapsulamiento
+setNombre(nombre){
+if(nombre!="fdfd")
+this.nombre=nombre
+}
+resto
+public saludar(){
+}
+
+}
+
+Persona p = new Persona();
+p.setNombre("dd")

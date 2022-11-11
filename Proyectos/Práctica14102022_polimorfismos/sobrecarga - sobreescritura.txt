@@ -1,0 +1,18 @@
+Python
+sobrecarga / sobreescritura
+JAVA
+class Animal{
+saludar(){}
+overload / sobrecarga
+saludar(string nombre){}
+}
+
+class Perro extends Animal{
+override / sobreescritura
+saludar(string nombre){}
+}
+
+Animal animal= new Animal();
+animal.saludar("jj")
+Perro perro = new Perro();
+perro.super.saludar("kkk")

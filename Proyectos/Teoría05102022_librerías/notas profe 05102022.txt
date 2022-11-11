@@ -1,0 +1,13 @@
+codificación
+sistemas de numeración
+almacenamiento memoria
+estructuras control. bucles
+crear funciones. invocarlas. pasar parámetros
+librerias. standard
+string
+number
+boolean
+fecha/hora : date
+seguridad
+gestión de datos. conectar fuente de datos
+update, delete, insert : permisos de escritura
