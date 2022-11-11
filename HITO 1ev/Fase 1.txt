@@ -1,7 +1,0 @@
-Un Algoritmo de Programación es un conjunto de instrucciones definidas, que están acotadas y ordenadas para, la resolución de un problema, realización de cálculos o el desarrollo de una tarea. Un algoritmo es un proceso paso a paso para llegar a un fin u objetivo.
-
-En el ámbito de la programación, un algoritmo es el paso previo antes de comenzar a escribir código. Lo primero que debemos hacer es encontrar la forma de conseguir una solución al problema planteado (básicamente definir el algoritmo informático), para posteriormente a través del código, indicarle las acciones que queremos que haga a la máquina. Entonces, un programa informático no es más que un conjunto de algoritmos codificados y ordenados en un lenguaje de programación para que puedan ser ejecutados en un ordenador.
-
-Las soluciones se proponen analizando el problema. Tenemos que tener claro el destino al que queremos llegar, y para ello tenemos que buscar la manera más óptima, eficaz y fácil de llegar a él. Tenemos que elegir el lenguaje de programación, cómo vamos a plantear el problema, el algoritmo que vamos a seguir, etc.
-
-Es muy importante saber que nos pide el cliente y buscar la mejor forma de afrontarlo, teniendo muy en cuenta las condiciones que este nos diga.
